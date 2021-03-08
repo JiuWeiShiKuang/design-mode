@@ -2,38 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03621d35-260c-4961-981a-434ce19f2721" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstract-factory/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstract-factory/src/main/java/com/wangyi/abstrctFactory/CourseFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstract-factory/src/main/java/com/wangyi/abstrctFactory/ICourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstract-factory/src/main/java/com/wangyi/abstrctFactory/IDayi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstract-factory/src/main/java/com/wangyi/abstrctFactory/INote.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstract-factory/src/main/java/com/wangyi/abstrctFactory/IVideo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstract-factory/src/main/java/com/wangyi/abstrctFactory/JavaCourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstract-factory/src/main/java/com/wangyi/abstrctFactory/JavaCourseFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstract-factory/src/main/java/com/wangyi/abstrctFactory/JavaDayi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstract-factory/src/main/java/com/wangyi/abstrctFactory/JavaNote.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstract-factory/src/main/java/com/wangyi/abstrctFactory/JavaVideo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstract-factory/src/main/java/com/wangyi/abstrctFactory/PythonCourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstract-factory/src/main/java/com/wangyi/abstrctFactory/PythonCourseFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstract-factory/src/main/java/com/wangyi/abstrctFactory/PythonNote.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstract-factory/src/main/java/com/wangyi/abstrctFactory/PythonVideo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstract-factory/src/main/java/com/wangyi/abstrctFactory/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-principle/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-principle/src/main/java/com/wangyi/dependencyInversion/DependencyInversionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-principle/src/main/java/com/wangyi/dependencyInversion/ICourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-principle/src/main/java/com/wangyi/dependencyInversion/JavaCourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-principle/src/main/java/com/wangyi/dependencyInversion/VueCourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-principle/src/main/java/com/wangyi/dependencyInversion/WY.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/singleton-mode/src/main/java/com/wangyi/LazyDoubleCheckSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/singleton-mode/src/main/java/com/wangyi/register/EnumSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/singleton-mode/src/main/java/com/wangyi/register/persion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proxy-mode/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proxy-mode/src/main/java/CGLibProxy/CGLibAgentProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proxy-mode/src/main/java/CGLibProxy/IPerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proxy-mode/src/main/java/CGLibProxy/LiSi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proxy-mode/src/main/java/CGLibProxy/TestCGLibProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proxy-mode/src/main/java/CGLibProxy/zhangsan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proxy-mode/src/main/java/JDKProxy/IPerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proxy-mode/src/main/java/JDKProxy/JDKAgentProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proxy-mode/src/main/java/JDKProxy/LiSi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proxy-mode/src/main/java/JDKProxy/TestProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proxy-mode/src/main/java/JDKProxy/zhangsan.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/singleton-mode/target/classes/com/wangyi/SingletonTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/singleton-mode/target/classes/com/wangyi/SingletonTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/singleton-mode/singleton-mode.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/singleton-mode/src/main/java/com/wangyi/register/EnumSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/singleton-mode/src/main/java/com/wangyi/register/EnumSingleton.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,8 +29,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -64,13 +51,19 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../jeecg-boot" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/proxy-mode/src/main/java/CGLibProxy" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -84,22 +77,14 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="JDKProxy" />
       <recent name="com.wangyi.abstrctFactory" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\GP\design-mode\proxy-mode\src\main\java\CGLibProxy" />
+    </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.Test (2)">
+  <component name="RunManager" selected="Application.TestCGLibProxy">
     <configuration name="DependencyInversionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.wangyi.dependencyInversion.DependencyInversionTest" />
       <module name="design-principle" />
@@ -126,19 +111,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wangyi.dependencyInversion.Test" />
-      <module name="design-principle" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.wangyi.dependencyInversion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.wangyi.abstrctFactory.Test" />
       <module name="abstract-factory" />
@@ -152,14 +124,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.wangyi.closeOpen.Test" />
-      <module name="design-principle" />
+    <configuration name="TestCGLibProxy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CGLibProxy.TestCGLibProxy" />
+      <module name="proxy-mode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wangyi.closeOpen.*" />
+          <option name="PATTERN" value="CGLibProxy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestProxy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JDKProxy.TestProxy" />
+      <module name="proxy-mode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JDKProxy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,18 +152,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.SingletonTest" />
-      <item itemvalue="Application.Test" />
-      <item itemvalue="Application.Test (1)" />
       <item itemvalue="Application.DependencyInversionTest" />
       <item itemvalue="Application.Test (2)" />
+      <item itemvalue="Application.TestProxy" />
+      <item itemvalue="Application.TestCGLibProxy" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestCGLibProxy" />
+        <item itemvalue="Application.TestProxy" />
         <item itemvalue="Application.Test (2)" />
         <item itemvalue="Application.DependencyInversionTest" />
         <item itemvalue="Application.SingletonTest" />
-        <item itemvalue="Application.Test (1)" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -202,6 +185,7 @@
       <workItem from="1612441515263" duration="1000000" />
       <workItem from="1614427302338" duration="2548000" />
       <workItem from="1614521182139" duration="597000" />
+      <workItem from="1614909830480" duration="10904000" />
     </task>
     <servers />
   </component>
@@ -223,5 +207,55 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="312" y="91" key="#Inspections" timestamp="1614913458686">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="312" y="91" key="#Inspections/0.0.1440.860@0.0.1440.860" timestamp="1614913458686" />
+    <state x="525" y="149" key="#com.intellij.ide.util.MemberChooser" timestamp="1614914277477">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="525" y="149" key="#com.intellij.ide.util.MemberChooser/0.0.1440.860@0.0.1440.860" timestamp="1614914277477" />
+    <state x="337" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1614915193954">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="337" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1440.860@0.0.1440.860" timestamp="1614915193954" />
+    <state width="1397" height="276" key="GridCell.Tab.0.bottom" timestamp="1614915120711">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="276" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1614915120711" />
+    <state width="1397" height="276" key="GridCell.Tab.0.center" timestamp="1614915120711">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="276" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1614915120711" />
+    <state width="1397" height="276" key="GridCell.Tab.0.left" timestamp="1614915120710">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="276" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1614915120710" />
+    <state width="1397" height="276" key="GridCell.Tab.0.right" timestamp="1614915120711">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="276" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1614915120711" />
+    <state width="1397" height="276" key="GridCell.Tab.1.bottom" timestamp="1614915120711">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="276" key="GridCell.Tab.1.bottom/0.0.1440.860@0.0.1440.860" timestamp="1614915120711" />
+    <state width="1397" height="276" key="GridCell.Tab.1.center" timestamp="1614915120711">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="276" key="GridCell.Tab.1.center/0.0.1440.860@0.0.1440.860" timestamp="1614915120711" />
+    <state width="1397" height="276" key="GridCell.Tab.1.left" timestamp="1614915120711">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="276" key="GridCell.Tab.1.left/0.0.1440.860@0.0.1440.860" timestamp="1614915120711" />
+    <state width="1397" height="276" key="GridCell.Tab.1.right" timestamp="1614915120711">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="276" key="GridCell.Tab.1.right/0.0.1440.860@0.0.1440.860" timestamp="1614915120711" />
+    <state x="189" y="125" key="new project wizard" timestamp="1614909877584">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="189" y="125" key="new project wizard/0.0.1440.860@0.0.1440.860" timestamp="1614909877584" />
   </component>
 </project>

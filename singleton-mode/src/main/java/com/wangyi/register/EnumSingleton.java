@@ -1,6 +1,9 @@
 package com.wangyi.register;
 
 public enum EnumSingleton {
+    /*
+    *枚举单例
+    */
     INSTANCE;
     private Object data;
 
