@@ -13,6 +13,7 @@
         <module>design-principle</module>
         <module>abstract-factory</module>
         <module>proxy-mode</module>
+        <module>decorate-mode</module>
     </modules>
     <dependencies>
         <dependency>

@@ -2,24 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03621d35-260c-4961-981a-434ce19f2721" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proxy-mode/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proxy-mode/src/main/java/CGLibProxy/CGLibAgentProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proxy-mode/src/main/java/CGLibProxy/IPerson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proxy-mode/src/main/java/CGLibProxy/LiSi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proxy-mode/src/main/java/CGLibProxy/TestCGLibProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proxy-mode/src/main/java/CGLibProxy/zhangsan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proxy-mode/src/main/java/JDKProxy/IPerson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proxy-mode/src/main/java/JDKProxy/JDKAgentProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proxy-mode/src/main/java/JDKProxy/LiSi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proxy-mode/src/main/java/JDKProxy/TestProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proxy-mode/src/main/java/JDKProxy/zhangsan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/decorate-mode/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/decorate-mode/src/main/java/decorate/ConcretePancakeComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/decorate-mode/src/main/java/decorate/Decorate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/decorate-mode/src/main/java/decorate/EggPancake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/decorate-mode/src/main/java/decorate/PancakeComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/decorate-mode/src/main/java/decorate/SausagePancake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/decorate-mode/src/main/java/decorate/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/singleton-mode/singleton-mode.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/singleton-mode/src/main/java/com/wangyi/register/EnumSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/singleton-mode/src/main/java/com/wangyi/register/EnumSingleton.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +74,7 @@
       <recent name="F:\GP\design-mode\proxy-mode\src\main\java\CGLibProxy" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestCGLibProxy">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="DependencyInversionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.wangyi.dependencyInversion.DependencyInversionTest" />
       <module name="design-principle" />
@@ -98,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SingletonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wangyi.SingletonTest" />
-      <module name="singleton-mode" />
+    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wangyi.abstrctFactory.Test" />
+      <module name="abstract-factory" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wangyi.*" />
+          <option name="PATTERN" value="com.wangyi.abstrctFactory.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wangyi.abstrctFactory.Test" />
-      <module name="abstract-factory" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="decorate.Test" />
+      <module name="decorate-mode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wangyi.abstrctFactory.*" />
+          <option name="PATTERN" value="decorate.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,19 +141,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SingletonTest" />
       <item itemvalue="Application.DependencyInversionTest" />
       <item itemvalue="Application.Test (2)" />
       <item itemvalue="Application.TestProxy" />
       <item itemvalue="Application.TestCGLibProxy" />
+      <item itemvalue="Application.Test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.TestCGLibProxy" />
         <item itemvalue="Application.TestProxy" />
         <item itemvalue="Application.Test (2)" />
         <item itemvalue="Application.DependencyInversionTest" />
-        <item itemvalue="Application.SingletonTest" />
       </list>
     </recent_temporary>
   </component>
@@ -185,8 +175,16 @@
       <workItem from="1612441515263" duration="1000000" />
       <workItem from="1614427302338" duration="2548000" />
       <workItem from="1614521182139" duration="597000" />
-      <workItem from="1614909830480" duration="10904000" />
+      <workItem from="1614909830480" duration="15955000" />
     </task>
+    <task id="LOCAL-00001" summary="代理模式">
+      <created>1615168443210</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1615168443210</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -207,55 +205,65 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="代理模式" />
+    <option name="LAST_COMMIT_MESSAGE" value="代理模式" />
   </component>
   <component name="WindowStateProjectService">
     <state x="312" y="91" key="#Inspections" timestamp="1614913458686">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="312" y="91" key="#Inspections/0.0.1440.860@0.0.1440.860" timestamp="1614913458686" />
-    <state x="525" y="149" key="#com.intellij.ide.util.MemberChooser" timestamp="1614914277477">
+    <state x="312" y="91" key="#Project_Structure" timestamp="1615169383139">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="525" y="149" key="#com.intellij.ide.util.MemberChooser/0.0.1440.860@0.0.1440.860" timestamp="1614914277477" />
+    <state x="312" y="91" key="#Project_Structure/0.0.1440.860@0.0.1440.860" timestamp="1615169383139" />
+    <state x="525" y="149" key="#com.intellij.ide.util.MemberChooser" timestamp="1615173485515">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="525" y="149" key="#com.intellij.ide.util.MemberChooser/0.0.1440.860@0.0.1440.860" timestamp="1615173485515" />
     <state x="337" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1614915193954">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="337" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1440.860@0.0.1440.860" timestamp="1614915193954" />
-    <state width="1397" height="276" key="GridCell.Tab.0.bottom" timestamp="1614915120711">
+    <state x="329" y="23" key="CommitChangelistDialog2" timestamp="1615168434005">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1397" height="276" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1614915120711" />
-    <state width="1397" height="276" key="GridCell.Tab.0.center" timestamp="1614915120711">
+    <state x="329" y="23" key="CommitChangelistDialog2/0.0.1440.860@0.0.1440.860" timestamp="1615168434005" />
+    <state width="1397" height="276" key="GridCell.Tab.0.bottom" timestamp="1615173766871">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1397" height="276" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1614915120711" />
-    <state width="1397" height="276" key="GridCell.Tab.0.left" timestamp="1614915120710">
+    <state width="1397" height="276" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1615173766871" />
+    <state width="1397" height="276" key="GridCell.Tab.0.center" timestamp="1615173766871">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1397" height="276" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1614915120710" />
-    <state width="1397" height="276" key="GridCell.Tab.0.right" timestamp="1614915120711">
+    <state width="1397" height="276" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1615173766871" />
+    <state width="1397" height="276" key="GridCell.Tab.0.left" timestamp="1615173766871">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1397" height="276" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1614915120711" />
-    <state width="1397" height="276" key="GridCell.Tab.1.bottom" timestamp="1614915120711">
+    <state width="1397" height="276" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1615173766871" />
+    <state width="1397" height="276" key="GridCell.Tab.0.right" timestamp="1615173766871">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1397" height="276" key="GridCell.Tab.1.bottom/0.0.1440.860@0.0.1440.860" timestamp="1614915120711" />
-    <state width="1397" height="276" key="GridCell.Tab.1.center" timestamp="1614915120711">
+    <state width="1397" height="276" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1615173766871" />
+    <state width="1397" height="276" key="GridCell.Tab.1.bottom" timestamp="1615173766277">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1397" height="276" key="GridCell.Tab.1.center/0.0.1440.860@0.0.1440.860" timestamp="1614915120711" />
-    <state width="1397" height="276" key="GridCell.Tab.1.left" timestamp="1614915120711">
+    <state width="1397" height="276" key="GridCell.Tab.1.bottom/0.0.1440.860@0.0.1440.860" timestamp="1615173766277" />
+    <state width="1397" height="276" key="GridCell.Tab.1.center" timestamp="1615173766277">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1397" height="276" key="GridCell.Tab.1.left/0.0.1440.860@0.0.1440.860" timestamp="1614915120711" />
-    <state width="1397" height="276" key="GridCell.Tab.1.right" timestamp="1614915120711">
+    <state width="1397" height="276" key="GridCell.Tab.1.center/0.0.1440.860@0.0.1440.860" timestamp="1615173766277" />
+    <state width="1397" height="276" key="GridCell.Tab.1.left" timestamp="1615173766277">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1397" height="276" key="GridCell.Tab.1.right/0.0.1440.860@0.0.1440.860" timestamp="1614915120711" />
-    <state x="189" y="125" key="new project wizard" timestamp="1614909877584">
+    <state width="1397" height="276" key="GridCell.Tab.1.left/0.0.1440.860@0.0.1440.860" timestamp="1615173766277" />
+    <state width="1397" height="276" key="GridCell.Tab.1.right" timestamp="1615173766277">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="189" y="125" key="new project wizard/0.0.1440.860@0.0.1440.860" timestamp="1614909877584" />
+    <state width="1397" height="276" key="GridCell.Tab.1.right/0.0.1440.860@0.0.1440.860" timestamp="1615173766277" />
+    <state x="189" y="125" key="new project wizard" timestamp="1615169358198">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="189" y="125" key="new project wizard/0.0.1440.860@0.0.1440.860" timestamp="1615169358198" />
   </component>
 </project>
