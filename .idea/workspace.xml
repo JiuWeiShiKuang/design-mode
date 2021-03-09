@@ -2,36 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03621d35-260c-4961-981a-434ce19f2721" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstract-factory/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstract-factory/src/main/java/com/wangyi/abstrctFactory/CourseFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstract-factory/src/main/java/com/wangyi/abstrctFactory/ICourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstract-factory/src/main/java/com/wangyi/abstrctFactory/IDayi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstract-factory/src/main/java/com/wangyi/abstrctFactory/INote.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstract-factory/src/main/java/com/wangyi/abstrctFactory/IVideo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstract-factory/src/main/java/com/wangyi/abstrctFactory/JavaCourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstract-factory/src/main/java/com/wangyi/abstrctFactory/JavaCourseFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstract-factory/src/main/java/com/wangyi/abstrctFactory/JavaDayi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstract-factory/src/main/java/com/wangyi/abstrctFactory/JavaNote.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstract-factory/src/main/java/com/wangyi/abstrctFactory/JavaVideo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstract-factory/src/main/java/com/wangyi/abstrctFactory/PythonCourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstract-factory/src/main/java/com/wangyi/abstrctFactory/PythonCourseFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstract-factory/src/main/java/com/wangyi/abstrctFactory/PythonNote.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstract-factory/src/main/java/com/wangyi/abstrctFactory/PythonVideo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstract-factory/src/main/java/com/wangyi/abstrctFactory/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-principle/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-principle/src/main/java/com/wangyi/dependencyInversion/DependencyInversionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-principle/src/main/java/com/wangyi/dependencyInversion/ICourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-principle/src/main/java/com/wangyi/dependencyInversion/JavaCourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-principle/src/main/java/com/wangyi/dependencyInversion/VueCourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-principle/src/main/java/com/wangyi/dependencyInversion/WY.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/singleton-mode/src/main/java/com/wangyi/LazyDoubleCheckSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/singleton-mode/src/main/java/com/wangyi/register/EnumSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/singleton-mode/src/main/java/com/wangyi/register/persion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/singleton-mode/target/classes/com/wangyi/SingletonTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/singleton-mode/target/classes/com/wangyi/SingletonTest.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -202,7 +173,16 @@
       <workItem from="1612441515263" duration="1000000" />
       <workItem from="1614427302338" duration="2548000" />
       <workItem from="1614521182139" duration="597000" />
+      <workItem from="1614869900032" duration="638000" />
     </task>
+    <task id="LOCAL-00001" summary="单例">
+      <created>1614869982158</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614869982158</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -223,5 +203,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="单例" />
+    <option name="LAST_COMMIT_MESSAGE" value="单例" />
   </component>
 </project>
