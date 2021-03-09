@@ -7,6 +7,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="abstract-factory" />
+        <module name="proxy-mode" />
+        <module name="decorate-mode" />
         <module name="singleton-mode" />
         <module name="design-principle" />
       </profile>

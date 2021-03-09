@@ -2,9 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03621d35-260c-4961-981a-434ce19f2721" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/decorate-mode/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/decorate-mode/src/main/java/decorate/ConcretePancakeComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/decorate-mode/src/main/java/decorate/Decorate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/decorate-mode/src/main/java/decorate/EggPancake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/decorate-mode/src/main/java/decorate/PancakeComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/decorate-mode/src/main/java/decorate/SausagePancake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/decorate-mode/src/main/java/decorate/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+>>>>>>> e2b080bef250bb987d006875b92620265a5582b8
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,8 +23,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -35,13 +45,19 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../jeecg-boot" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/proxy-mode/src/main/java/CGLibProxy" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -55,50 +71,16 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="JDKProxy" />
       <recent name="com.wangyi.abstrctFactory" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\GP\design-mode\proxy-mode\src\main\java\CGLibProxy" />
+    </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.Test (2)">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="DependencyInversionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.wangyi.dependencyInversion.DependencyInversionTest" />
-      <module name="design-principle" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.wangyi.dependencyInversion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SingletonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wangyi.SingletonTest" />
-      <module name="singleton-mode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.wangyi.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wangyi.dependencyInversion.Test" />
       <module name="design-principle" />
       <extension name="coverage">
         <pattern>
@@ -124,13 +106,37 @@
       </method>
     </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.wangyi.closeOpen.Test" />
-      <module name="design-principle" />
+      <option name="MAIN_CLASS_NAME" value="decorate.Test" />
+      <module name="decorate-mode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wangyi.closeOpen.*" />
+          <option name="PATTERN" value="decorate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCGLibProxy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CGLibProxy.TestCGLibProxy" />
+      <module name="proxy-mode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CGLibProxy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestProxy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JDKProxy.TestProxy" />
+      <module name="proxy-mode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JDKProxy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,19 +145,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SingletonTest" />
-      <item itemvalue="Application.Test" />
-      <item itemvalue="Application.Test (1)" />
       <item itemvalue="Application.DependencyInversionTest" />
       <item itemvalue="Application.Test (2)" />
+      <item itemvalue="Application.TestProxy" />
+      <item itemvalue="Application.TestCGLibProxy" />
+      <item itemvalue="Application.Test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.TestCGLibProxy" />
+        <item itemvalue="Application.TestProxy" />
         <item itemvalue="Application.Test (2)" />
         <item itemvalue="Application.DependencyInversionTest" />
-        <item itemvalue="Application.SingletonTest" />
-        <item itemvalue="Application.Test (1)" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -173,6 +179,7 @@
       <workItem from="1612441515263" duration="1000000" />
       <workItem from="1614427302338" duration="2548000" />
       <workItem from="1614521182139" duration="597000" />
+<<<<<<< HEAD
       <workItem from="1614869900032" duration="638000" />
     </task>
     <task id="LOCAL-00001" summary="单例">
@@ -182,6 +189,17 @@
       <option name="project" value="LOCAL" />
       <updated>1614869982158</updated>
     </task>
+=======
+      <workItem from="1614909830480" duration="15955000" />
+    </task>
+    <task id="LOCAL-00001" summary="代理模式">
+      <created>1615168443210</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1615168443210</updated>
+    </task>
+>>>>>>> e2b080bef250bb987d006875b92620265a5582b8
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
@@ -203,7 +221,70 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+<<<<<<< HEAD
     <MESSAGE value="单例" />
     <option name="LAST_COMMIT_MESSAGE" value="单例" />
+=======
+    <MESSAGE value="代理模式" />
+    <option name="LAST_COMMIT_MESSAGE" value="代理模式" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="312" y="91" key="#Inspections" timestamp="1614913458686">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="312" y="91" key="#Inspections/0.0.1440.860@0.0.1440.860" timestamp="1614913458686" />
+    <state x="312" y="91" key="#Project_Structure" timestamp="1615169383139">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="312" y="91" key="#Project_Structure/0.0.1440.860@0.0.1440.860" timestamp="1615169383139" />
+    <state x="525" y="149" key="#com.intellij.ide.util.MemberChooser" timestamp="1615173485515">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="525" y="149" key="#com.intellij.ide.util.MemberChooser/0.0.1440.860@0.0.1440.860" timestamp="1615173485515" />
+    <state x="337" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1614915193954">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="337" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1440.860@0.0.1440.860" timestamp="1614915193954" />
+    <state x="329" y="23" key="CommitChangelistDialog2" timestamp="1615168434005">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="329" y="23" key="CommitChangelistDialog2/0.0.1440.860@0.0.1440.860" timestamp="1615168434005" />
+    <state width="1397" height="276" key="GridCell.Tab.0.bottom" timestamp="1615173766871">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="276" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1615173766871" />
+    <state width="1397" height="276" key="GridCell.Tab.0.center" timestamp="1615173766871">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="276" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1615173766871" />
+    <state width="1397" height="276" key="GridCell.Tab.0.left" timestamp="1615173766871">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="276" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1615173766871" />
+    <state width="1397" height="276" key="GridCell.Tab.0.right" timestamp="1615173766871">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="276" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1615173766871" />
+    <state width="1397" height="276" key="GridCell.Tab.1.bottom" timestamp="1615173766277">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="276" key="GridCell.Tab.1.bottom/0.0.1440.860@0.0.1440.860" timestamp="1615173766277" />
+    <state width="1397" height="276" key="GridCell.Tab.1.center" timestamp="1615173766277">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="276" key="GridCell.Tab.1.center/0.0.1440.860@0.0.1440.860" timestamp="1615173766277" />
+    <state width="1397" height="276" key="GridCell.Tab.1.left" timestamp="1615173766277">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="276" key="GridCell.Tab.1.left/0.0.1440.860@0.0.1440.860" timestamp="1615173766277" />
+    <state width="1397" height="276" key="GridCell.Tab.1.right" timestamp="1615173766277">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="276" key="GridCell.Tab.1.right/0.0.1440.860@0.0.1440.860" timestamp="1615173766277" />
+    <state x="189" y="125" key="new project wizard" timestamp="1615169358198">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="189" y="125" key="new project wizard/0.0.1440.860@0.0.1440.860" timestamp="1615169358198" />
+>>>>>>> e2b080bef250bb987d006875b92620265a5582b8
   </component>
 </project>
