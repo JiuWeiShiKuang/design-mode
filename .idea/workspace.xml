@@ -2,12 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03621d35-260c-4961-981a-434ce19f2721" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/adapter-mode/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/adapter-mode/src/main/java/adapter/AC220v.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/adapter-mode/src/main/java/adapter/DC.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/adapter-mode/src/main/java/adapter/PowerAdapter.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/adapter-mode/src/main/java/adapter/TestAdapter.java" afterDir="false" />
+=======
+<<<<<<< HEAD
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/decorate-mode/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/decorate-mode/src/main/java/decorate/ConcretePancakeComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/decorate-mode/src/main/java/decorate/Decorate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/decorate-mode/src/main/java/decorate/EggPancake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/decorate-mode/src/main/java/decorate/PancakeComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/decorate-mode/src/main/java/decorate/SausagePancake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/decorate-mode/src/main/java/decorate/Test.java" afterDir="false" />
+>>>>>>> e64b657e7f4b9631ecf9c83504d06bd93a3cc3c3
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+>>>>>>> e2b080bef250bb987d006875b92620265a5582b8
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -173,7 +187,22 @@
       <workItem from="1612441515263" duration="1000000" />
       <workItem from="1614427302338" duration="2548000" />
       <workItem from="1614521182139" duration="597000" />
+<<<<<<< HEAD
       <workItem from="1614909830480" duration="25423000" />
+=======
+<<<<<<< HEAD
+      <workItem from="1614869900032" duration="638000" />
+    </task>
+    <task id="LOCAL-00001" summary="单例">
+      <created>1614869982158</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614869982158</updated>
+    </task>
+=======
+      <workItem from="1614909830480" duration="15955000" />
+>>>>>>> e64b657e7f4b9631ecf9c83504d06bd93a3cc3c3
     </task>
     <task id="LOCAL-00001" summary="代理模式">
       <created>1615168443210</created>
@@ -182,6 +211,7 @@
       <option name="project" value="LOCAL" />
       <updated>1615168443210</updated>
     </task>
+>>>>>>> e2b080bef250bb987d006875b92620265a5582b8
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
@@ -203,6 +233,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+<<<<<<< HEAD
+    <MESSAGE value="单例" />
+    <option name="LAST_COMMIT_MESSAGE" value="单例" />
+=======
     <MESSAGE value="代理模式" />
     <option name="LAST_COMMIT_MESSAGE" value="代理模式" />
   </component>
@@ -262,6 +296,11 @@
     <state x="189" y="125" key="new project wizard" timestamp="1615271398610">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
+<<<<<<< HEAD
     <state x="189" y="125" key="new project wizard/0.0.1440.860@0.0.1440.860" timestamp="1615271398610" />
+=======
+    <state x="189" y="125" key="new project wizard/0.0.1440.860@0.0.1440.860" timestamp="1615169358198" />
+>>>>>>> e2b080bef250bb987d006875b92620265a5582b8
+>>>>>>> e64b657e7f4b9631ecf9c83504d06bd93a3cc3c3
   </component>
 </project>
