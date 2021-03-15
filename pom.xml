@@ -17,6 +17,7 @@
         <module>adapter-mode</module>
         <module>bridge-pattern</module>
         <module>delegate-pattern</module>
+        <module>templateMethod-pattern</module>
     </modules>
     <dependencies>
         <dependency>
