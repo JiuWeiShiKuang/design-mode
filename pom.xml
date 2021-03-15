@@ -18,6 +18,7 @@
         <module>bridge-pattern</module>
         <module>delegate-pattern</module>
         <module>templateMethod-pattern</module>
+        <module>strategy-pattern</module>
     </modules>
     <dependencies>
         <dependency>
