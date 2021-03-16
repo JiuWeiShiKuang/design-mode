@@ -20,6 +20,7 @@
         <module>templateMethod-pattern</module>
         <module>strategy-pattern</module>
         <module>chainResponsibility-pattern</module>
+        <module>state-pattern</module>
     </modules>
     <dependencies>
         <dependency>
